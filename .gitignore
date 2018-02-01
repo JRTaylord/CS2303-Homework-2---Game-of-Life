@@ -30,3 +30,17 @@
 
 # Debug files
 *.dSYM/
+
+\.idea/PA2_JRTaylor\.iml
+
+\.idea/codeStyles/
+
+\.idea/
+
+PA2_JRTaylor\.zip
+
+cmake-build-debug/
+
+html/
+
+latex/
