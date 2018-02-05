@@ -339,7 +339,7 @@ int main(int argc, char **argv) {
             break;
         }
         if(doPause){
-            printf("Press Enter to continue\n");
+            printf("Press Enter to continue\n ");
             getchar();
         }
     }
